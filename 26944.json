@@ -1,0 +1,67 @@
+{
+  "id": 26944,
+  "name": "Enrollable de bambú terracota",
+  "media": [
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/26944/26944_1_165x165.jpg?v=0&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    },
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/26944/26944_2_165x165.jpg?v=0&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    }
+  ],
+  "url": "/venta-enrollable-de-bambu-terracota_26944",
+  "campaigns": [],
+  "brand": {
+    "id": 252,
+    "name": "Stor Planet",
+    "url": "/marca-stor-planet",
+    "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/marca/457/457_120.jpg"
+  },
+  "rating": 0,
+  "reviews": 0,
+  "has_availability": true,
+  "is_disabled": false,
+  "is_pack": false,
+  "breadcrumb": [
+    {
+      "category": "Hogar",
+      "url": "/tienda-hogar"
+    },
+    {
+      "category": "Decoración del Hogar",
+      "url": "/comprar-decoracion-del-hogar"
+    },
+    {
+      "category": "Estores y Persianas",
+      "url": "/comprar-estores-y-persianas"
+    },
+    {
+      "category": "Estores de Bambú",
+      "url": "/comprar-estores-de-bambu"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Enrollable de bambú terracota",
+      "sku": 26944,
+      "barcodes": [],
+      "stock": 100,
+      "pricing": [
+        {
+          "value":  38.35,
+          "amount": 9995,
+          "format": " 38.35",
+          "currency": "EUR",
+          "vat": 0.21
+        }
+      ],
+      "availability": {
+        "is_available": true,
+        "from": "2020-04-23T00:00:00+0200",
+        "to": "2020-12-28T00:00:00+0200"
+      }
+    }
+  ]
+}

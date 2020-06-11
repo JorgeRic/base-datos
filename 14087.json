@@ -1,0 +1,101 @@
+{
+  "id": 14087,
+  "name": "Parrilla circular Dancook",
+  "media": [
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/14087/14087_1_165x165.jpg?v=0&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    }
+  ],
+  "url": "/venta-parrilla-circular-dancook_14087",
+  "campaigns": [],
+  "brand": {
+    "id": 248,
+    "name": "Dancook",
+    "url": "/marca-dancook",
+    "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/marca/248/248_120.png"
+  },
+  "rating": 4.3,
+  "reviews": 3,
+  "has_availability": true,
+  "is_disabled": false,
+  "is_pack": false,
+  "breadcrumb": [
+    {
+      "category": "Jardín y Exterior",
+      "url": "/tienda-gadin-y-exterior"
+    },
+    {
+      "category": "Barbacoas",
+      "url": "/comprar-barbacoas"
+    },
+    {
+      "category": "Parrillas para barbacoa",
+      "url": "/comprar-parrillas-para-barbacoa"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Parrilla circular Dancook",
+      "sku": 14087,
+      "barcodes": [],
+      "stock": 100,
+      "pricing": [
+        {
+          "value": 23,
+          "amount": 9995,
+          "format": "23",
+          "currency": "EUR",
+          "vat": 0.21
+        },
+        {
+          "from": "2020-04-23T00:00:00+0200",
+          "to": "2020-12-28T00:00:00+0200",
+          "value": 19.20,
+          "amount": 9995,
+          "format": "19.20",
+          "currency": "EUR",
+          "discount": 0.16,
+          "discount_label": "-16%",
+          "vat": 0.21
+        }
+      ],
+      "availability": {
+        "is_available": true,
+        "from": "2020-04-23T00:00:00+0200",
+        "to": "2020-12-28T00:00:00+0200"
+      }
+    },
+    {
+      "name": "Parrilla circular Dancook",
+      "sku": 14087,
+      "barcodes": [],
+      "stock": 100,
+      "pricing": [
+        {
+          "value": 34,
+          "amount": 9995,
+          "format": "34",
+          "currency": "EUR",
+          "vat": 0.21
+        },
+        {
+          "from": "2020-04-23T00:00:00+0200",
+          "to": "2020-12-28T00:00:00+0200",
+          "value": 28.95,
+          "amount": 9995,
+          "format": "28.95",
+          "currency": "EUR",
+          "discount": 0.14,
+          "discount_label": "-14%",
+          "vat": 0.21
+        }
+      ],
+      "availability": {
+        "is_available": true,
+        "from": "2020-04-23T00:00:00+0200",
+        "to": "2020-12-28T00:00:00+0200"
+      }
+    }
+  ]
+}

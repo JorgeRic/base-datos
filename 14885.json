@@ -1,0 +1,67 @@
+{
+  "id": 14885,
+  "name": "Semillas ecológicas de Pimiento Dulce Italiano",
+  "media": [
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/14885/14885_1_165x165.jpg?v=0&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    },
+    {
+      "resource": "https://img.youtube.com/vi/xwu6s-nHSjY/default.jpg",
+      "type": "video"
+    },
+    {
+      "resource": "https://img.youtube.com/vi/lXVvWlnWMVE/default.jpg",
+      "type": "video"
+    }
+  ],
+  "url": "/venta-semillas-ecologicas-de-pimiento-dulce-italiano_14885",
+  "campaigns": [],
+  "brand": {
+    "id": 255,
+    "name": "Batlle",
+    "url": "/marca-batlle",
+    "resource": "https://planetahuerto-6f4f.kxcdn.com/estaticos/imagenes/static-home/marcas/batlle.png"
+  },
+  "rating": 4.7,
+  "reviews": 19,
+  "has_availability": true,
+  "is_disabled": false,
+  "is_pack": false,
+  "breadcrumb": [
+    {
+      "category": "Huerto Eco",
+      "url": "/tienda-huerto-eco"
+    },
+    {
+      "category": "Semillas y Semilleros",
+      "url": "/comprar-semillas-y-semilleros"
+    },
+    {
+      "category": "Semillas Ecológicas",
+      "url": "/comprar-semillas-ecologicas"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Semillas ecológicas de Pimiento Dulce Italiano",
+      "sku": 14885,
+      "barcodes": [],
+      "stock": 100,
+      "pricing": [
+        {
+          "value":  1.60,
+          "amount": 9995,
+          "format": " 1.60",
+          "currency": "EUR",
+          "vat": 0.21
+        }
+      ],
+      "availability": {
+        "is_available": true,
+        "from": "2020-04-23T00:00:00+0200",
+        "to": "2020-12-28T00:00:00+0200"
+      }
+    }
+  ]
+}

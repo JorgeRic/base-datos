@@ -1,0 +1,78 @@
+{
+  "id": 111897,
+  "name": "Cinta de correr acuática Aquajogg Air Waterflex",
+  "media": [
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/111897/111897_1_165x165.jpg?v=0&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    },
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/111897/111897_2_165x165.jpg?v=0&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    },
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/111897/111897_3_165x165.jpg?v=0&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    }
+  ],
+  "url": "/venta-cinta-de-correr-acuatica-aquajogg-air-waterflex_111897",
+  "campaigns": [],
+  "brand": {
+    "id": 260,
+    "name": "Waterflex",
+    "url": "/marca-waterflex",
+    "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/marca/1327/1327_120.jpg"
+  },
+  "rating": 0,
+  "reviews": 0,
+  "has_availability": true,
+  "is_disabled": false,
+  "is_pack": false,
+  "breadcrumb": [
+    {
+      "category": "Hogar",
+      "url": "/tienda-hogar"
+    },
+    {
+      "category": "Salud y Bienestar",
+      "url": "/comprar-salud-y-bienestar"
+    },
+    {
+      "category": "Cintas de correr",
+      "url": "/comprar-cintas-de-correr"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Cinta de correr acuática Aquajogg Air Waterflex",
+      "sku": 111897,
+      "barcodes": [],
+      "stock": 100,
+      "pricing": [
+        {
+          "value": 1384.90,
+          "amount": 9995,
+          "format": "1384.90",
+          "currency": "EUR",
+          "vat": 0.21
+        },
+        {
+          "from": "2020-04-23T00:00:00+0200",
+          "to": "2020-12-28T00:00:00+0200",
+          "value": 1250,
+          "amount": 9995,
+          "format": "1250",
+          "currency": "EUR",
+          "discount": 0.9,
+          "discount_label": "-9%",
+          "vat": 0.21
+        }
+      ],
+      "availability": {
+        "is_available": true,
+        "from": "2020-04-23T00:00:00+0200",
+        "to": "2020-12-28T00:00:00+0200"
+      }
+    }
+  ]
+}

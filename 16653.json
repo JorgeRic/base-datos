@@ -1,0 +1,86 @@
+{
+  "id": 16653,
+  "name": "Barbacoa 3 Series Classic LBD",
+  "media": [
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/16653/16653_1_165x165.jpg?v=0&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    },
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/16653/16653_2_165x165.jpg?v=0&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    },
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/16653/16653_3_165x165.jpg?v=0&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    },
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/16653/16653_4_165x165.jpg?v=0&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    },
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/16653/16653_5_165x165.jpg?v=0&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    }
+  ],
+  "url": "/venta-barbacoa-3-series-classic-lbd_16653",
+  "campaigns": ["TOP JARDÍN"],
+  "brand": {
+    "id": 246,
+    "name": "Campingaz",
+    "url": "/marca-campingaz",
+    "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/marca/259/259_120.png"
+  },
+  "rating": 0,
+  "reviews": 0,
+  "has_availability": true,
+  "is_disabled": false,
+  "is_pack": false,
+  "breadcrumb": [
+    {
+      "category": "Jardín y Exterior",
+      "url": "/tienda-gadin-y-exterior"
+    },
+    {
+      "category": "Barbacoas",
+      "url": "/comprar-barbacoas"
+    },
+    {
+      "category": "Barbacoas de gas",
+      "url": "/comprar-barbacoas-de-gas"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Barbacoa 3 Series Classic LBD",
+      "sku": 16653,
+      "barcodes": [],
+      "stock": 100,
+      "pricing": [
+        {
+          "value": 330.00,
+          "amount": 9995,
+          "format": "330.00",
+          "currency": "EUR",
+          "vat": 0.21
+        },
+        {
+          "from": "2020-04-23T00:00:00+0200",
+          "to": "2020-12-28T00:00:00+0200",
+          "value": 264.90,
+          "amount": 9995,
+          "format": "264.90",
+          "currency": "EUR",
+          "discount": 0.19,
+          "discount_label": "-19%",
+          "vat": 0.21
+        }
+      ],
+      "availability": {
+        "is_available": true,
+        "from": "2020-04-23T00:00:00+0200",
+        "to": "2020-12-28T00:00:00+0200"
+      }
+    }
+  ]
+}

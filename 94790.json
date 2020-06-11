@@ -1,0 +1,87 @@
+{
+  "id": 94790,
+  "name": "Caseta de Jardín tipo Cobertizo metálica amarilla 277x191x192cm Outsunny",
+  "media": [
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/77619/77619_1_165x165.jpg?v=0&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    },
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/77619/77619_2_165x165.jpg?v=0&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    },
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/77619/77619_3_165x165.jpg?v=0&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    },
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/77619/77619_4_165x165.jpg?v=0&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    },
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/77619/77619_5_165x165.jpg?v=0&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    },
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/77619/77619_6_165x165.jpg?v=0&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    },
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/77619/77619_7_165x165.jpg?v=0&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    },
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/77619/77619_8_165x165.jpg?v=0&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    }
+  ],
+  "url": "/venta-caseta-de-jardin-tipo-cobertizo-metalica-amarilla-277x191x192cm-outsunny_77619/94790",
+  "campaigns": [],
+  "brand": {
+    "id": 251,
+    "name": "Outsunny",
+    "url": "/marca-outsunny",
+    "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/marca/721/721_120.jpg"
+  },
+  "rating": 0,
+  "reviews": 0,
+  "has_availability": true,
+  "is_disabled": false,
+  "is_pack": false,
+  "breadcrumb": [
+    {
+      "category": "Jardín y Exterior",
+      "url": "/tienda-jardin-y-exterior"
+    },
+    {
+      "category": "Casetas de jardín y garajes",
+      "url": "/comprar-casetas-de-jardin-y-garajes"
+    },
+    {
+      "category": "Casetas metálicas",
+      "url": "/comprar-casetas-metalicas"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Caseta de Jardín tipo Cobertizo metálica amarilla 277x191x192cm Outsunny",
+      "sku": 94790,
+      "barcodes": [],
+      "stock": 100,
+      "pricing": [
+        {
+          "value": 449.95,
+          "amount": 9995,
+          "format": "449.95",
+          "currency": "EUR",
+          "vat": 0.21
+        }
+      ],
+      "availability": {
+        "is_available": true,
+        "from": "2020-04-23T00:00:00+0200",
+        "to": "2020-12-28T00:00:00+0200"
+      }
+    }
+  ]
+}

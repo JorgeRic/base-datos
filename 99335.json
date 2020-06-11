@@ -1,0 +1,74 @@
+{
+  "id": 99335,
+  "name": "Pack PROMO DETOX Zumo de Abedul + Aceite Anticelulítico de Abedul Weleda",
+  "media": [
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/99335/99335_1_165x165.png?v=2&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    }
+  ],
+  "url": "/venta-pack-promo-detox-zumo-de-abedul-aceite-anticelulitico-de-abedul-weleda_99335",
+  "campaigns": ["DESCUENTO ECOOFERTAS"],
+  "brand": {
+    "id": 250,
+    "name": "Weleda",
+    "url": "/marca-weleda",
+    "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/marca/41/41_120.png"
+  },
+  "rating": 0,
+  "reviews": 0,
+  "has_availability": true,
+  "is_disabled": false,
+  "is_pack": false,
+  "breadcrumb": [
+    {
+      "category": "Supermercado Eco",
+      "url": "/tienda-supermercado-eco"
+    },
+    {
+      "category": "Cosmética Eco",
+      "url": "/comprar-cosmetica-eco"
+    },
+    {
+      "category": "Cuidado Corporal",
+      "url": "/comprar-cuidado-corporal"
+    },
+    {
+      "category": "Exfoliantes Corporales",
+      "url": "/comprar-exfoliantes"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Pack PROMO DETOX Zumo de Abedul + Aceite Anticelulítico de Abedul Weleda ",
+      "sku": 99335,
+      "barcodes": [],
+      "stock": 100,
+      "pricing": [
+        {
+          "value": 37.6,
+          "amount": 9995,
+          "format": "37.6",
+          "currency": "EUR",
+          "vat": 0.21
+        },
+        {
+          "from": "2020-04-23T00:00:00+0200",
+          "to": "2020-12-28T00:00:00+0200",
+          "value": 29.95,
+          "amount": 9995,
+          "format": "29.95",
+          "currency": "EUR",
+          "discount": 0.20,
+          "discount_label": "-20%",
+          "vat": 0.21
+        }
+      ],
+      "availability": {
+        "is_available": true,
+        "from": "2020-04-23T00:00:00+0200",
+        "to": "2020-12-28T00:00:00+0200"
+      }
+    }
+  ]
+}

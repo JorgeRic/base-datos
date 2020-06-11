@@ -47,7 +47,7 @@
       "pricing": [
         {
           "value": 31.95,
-          "amount": 0,
+          "amount": 9995,
           "format": "31.95",
           "currency": "EUR",
           "vat": 0.21
@@ -56,7 +56,7 @@
           "from": "2020-04-23T00:00:00+0200",
           "to": "2020-12-28T00:00:00+0200",
           "value": 27.45,
-          "amount": 0,
+          "amount": 9995,
           "format": "27.45",
           "currency": "EUR",
           "discount": 0.14,
