@@ -1,0 +1,78 @@
+{
+  "id": 95570,
+  "name": "Locion para bebé 0m+ Naty 200ml ",
+  "media": [
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/95570/95570_1_165x165.png?v=0&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    },
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/95570/95570_2_165x165.png?v=0&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    },
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/95570/95570_3_165x165.png?v=0&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    }
+  ],
+  "url": "/venta-locion-para-bebe-0m-naty-200ml_95570",
+  "campaigns": [],
+  "brand": {
+    "id": 234,
+    "name": "Naty AB",
+    "url": "/marca-naty-ab",
+    "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/marca/281/281_120.jpg"
+  },
+  "rating": 5,
+  "reviews": 2,
+  "has_availability": true,
+  "is_disabled": false,
+  "is_pack": false,
+  "breadcrumb": [
+    {
+      "category": "Bebé y Niño ",
+      "url": "/tienda-bebe-y-nino"
+    },
+    {
+      "category": "Cremas para Bebé",
+      "url": "/comprar-cremas-para-bebe"
+    },
+    {
+      "category": "Cremas Hidratantes Bebé",
+      "url": "/comprar-cremas-hidratantes-bebe"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Locion para bebé 0m+ Naty 200ml ",
+      "sku": 95570,
+      "barcodes": [],
+      "stock": 0,
+      "pricing": [
+        {
+          "value": 9.90,
+          "amount": 0,
+          "format": "9.90",
+          "currency": "EUR",
+          "vat": 0.21
+        },
+        {
+          "from": "2020-04-23T00:00:00+0200",
+          "to": "2020-12-28T00:00:00+0200",
+          "value": 7.74,
+          "amount": 0,
+          "format": "7.74",
+          "currency": "EUR",
+          "discount": 0.21,
+          "discount_label": "-21%",
+          "vat": 0.21
+        }
+      ],
+      "availability": {
+        "is_available": true,
+        "from": "2020-04-23T00:00:00+0200",
+        "to": "2020-12-28T00:00:00+0200"
+      }
+    }
+  ]
+}

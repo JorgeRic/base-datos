@@ -1,0 +1,133 @@
+{
+  "id": 13321,
+  "name": "Taladro Martillo atornillador 20 V Worx H3 ",
+  "media": [
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/13321/13321_1_165x165.jpg?v=0&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    },
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/13321/13321_2_165x165.jpg?v=0&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    },
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/13321/13321_3_165x165.jpg?v=0&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    },
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/13321/13321_4_165x165.jpg?v=0&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    },
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/13321/13321_5_165x165.jpg?v=0&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    },
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/13321/13321_6_165x165.jpg?v=0&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    },
+    {
+      "resource": "https://img.youtube.com/vi/LzicSfL4QUU/default.jpg",
+      "type": "video"
+    }
+  ],
+  "url": "/venta-taladro-martillo-atornillador-20-v-worx-h3_13321",
+  "campaigns": [],
+  "brand": {
+    "id": 242,
+    "name": "Worx",
+    "url": "/marca-worx",
+    "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/marca/151/151_120.png"
+  },
+  "rating": 4.8,
+  "reviews": 42,
+  "has_availability": true,
+  "is_disabled": false,
+  "is_pack": false,
+  "breadcrumb": [
+    {
+      "category": "Hogar",
+      "url": "/tienda-hogar"
+    },
+    {
+      "category": "Bricolaje",
+      "url": "/comprar-bricolaje"
+    },
+    {
+      "category": "Herramientas Electricas Bricolaje",
+      "url": "/comprar-herramientas-electricas-bricolaje"
+    },
+    {
+      "category": "Taladros y Martillos Electricos",
+      "url": "/comprar-taladros-y-martillos-electricos"
+    },
+    {
+      "category": "Taladros sin cable",
+      "url": "/comprar-taladros-sin-cable"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Taladro Martillo atornillador 20 V Worx H3 ",
+      "sku": 13321,
+      "barcodes": [],
+      "stock": 100,
+      "pricing": [
+        {
+          "value": 119.99,
+          "amount": 9995,
+          "format": "119.99",
+          "currency": "EUR",
+          "vat": 0.21
+        },
+        {
+          "from": "2020-04-23T00:00:00+0200",
+          "to": "2020-12-28T00:00:00+0200",
+          "value": 99.95,
+          "amount": 9995,
+          "format": "99.95",
+          "currency": "EUR",
+          "discount": 0.16,
+          "discount_label": "-16%",
+          "vat": 0.21
+        }
+      ],
+      "availability": {
+        "is_available": true,
+        "from": "2020-04-23T00:00:00+0200",
+        "to": "2020-12-28T00:00:00+0200"
+      }
+    },
+    {
+      "name": "Taladro Martillo atornillador 20 V Worx H3 ",
+      "sku": 13321,
+      "barcodes": [],
+      "stock": 100,
+      "pricing": [
+        {
+          "value": 215,
+          "amount": 9995,
+          "format": "215",
+          "currency": "EUR",
+          "vat": 0.21
+        },
+        {
+          "from": "2020-04-23T00:00:00+0200",
+          "to": "2020-12-28T00:00:00+0200",
+          "value": 215,
+          "amount": 9995,
+          "format": "215",
+          "currency": "EUR",
+          "discount": 0,
+          "discount_label": "0%",
+          "vat": 0.21
+        }
+      ],
+      "availability": {
+        "is_available": true,
+        "from": "2020-04-23T00:00:00+0200",
+        "to": "2020-12-28T00:00:00+0200"
+      }
+    }
+  ]
+}

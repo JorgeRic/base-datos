@@ -1,0 +1,82 @@
+{
+  "id": 120713,
+  "name": "Cacao en polvo Eco Planeta Huerto 250 g",
+  "media": [
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/120713/120713_1_165x165.jpg?v=1&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    },
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/120713/120713_2_165x165.jpg?v=1&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    }
+  ],
+  "url": "/venta-cacao-en-polvo-eco-planeta-huerto-250-g_120713",
+  "campaigns": ["PH SELECCION"],
+  "brand": {
+    "id": 241,
+    "name": "Planeta Huerto",
+    "url": "/marca-planeta-huerto",
+    "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/marca/596/596_120.jpg"
+  },
+  "rating": 5,
+  "reviews": 7,
+  "has_availability": true,
+  "is_disabled": false,
+  "is_pack": false,
+  "breadcrumb": [
+    {
+      "category": "Supermercados Eco",
+      "url": "/tienda-supermercado-eco"
+    },
+    {
+      "category": "Alimentacion Eco",
+      "url": "/comprar-alimentacion-eco"
+    },
+    {
+      "category": "Postres, dulces y chocolate",
+      "url": "/comprar-postres-dulces-y-chocolate"
+    },
+    {
+      "category": "Chocolate y cacao",
+      "url": "/comprar-chocolate-y-cacao"
+    },
+    {
+      "category": "Cacaos ecologicos",
+      "url": "/comprar-cacaos-ecologicos"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Cacao en polvo Eco Planeta Huerto 250 g",
+      "sku": 120713,
+      "barcodes": [],
+      "stock": 100,
+      "pricing": [
+        {
+          "value": 3.55,
+          "amount": 9995,
+          "format": "3.55",
+          "currency": "EUR",
+          "vat": 0.21
+        },
+        {
+          "from": "2020-04-23T00:00:00+0200",
+          "to": "2020-12-28T00:00:00+0200",
+          "value": 2.70,
+          "amount": 9995,
+          "format": "2.70",
+          "currency": "EUR",
+          "discount": 0.23,
+          "discount_label": "-23%",
+          "vat": 0.21
+        }
+      ],
+      "availability": {
+        "is_available": true,
+        "from": "2020-04-23T00:00:00+0200",
+        "to": "2020-12-28T00:00:00+0200"
+      }
+    }
+  ]
+}

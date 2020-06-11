@@ -1,0 +1,74 @@
+{
+  "id": 15812,
+  "name": "Champú tratante Bio de naranja y coco Sante 950 ml",
+  "media": [
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/9253/9253_1_165x165.jpg?v=2&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    }
+  ],
+  "url": "/venta-champu-tratante-bio-de-naranja-y-coco-sante-950-ml_09253/15812",
+  "campaigns": [],
+  "brand": {
+    "id": 245,
+    "name": "Sante",
+    "url": "/marca-sante",
+    "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/marca/46/46_120.png"
+  },
+  "rating": 4.6,
+  "reviews": 178,
+  "has_availability": true,
+  "is_disabled": false,
+  "is_pack": false,
+  "breadcrumb": [
+    {
+      "category": "Supermercado Eco",
+      "url": "/tienda-supermercado-eco"
+    },
+    {
+      "category": "Cosmética Eco",
+      "url": "/comprar-cosmetica-eco"
+    },
+    {
+      "category": "Cuidado Capilar",
+      "url": "/comprar-cuidado-capilar"
+    },
+    {
+      "category": "Champús",
+      "url": "/comprar-champus"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Champú tratante Bio de naranja y coco Sante 950 ml",
+      "sku": 15812,
+      "barcodes": [],
+      "stock": 100,
+      "pricing": [
+        {
+          "value": 13.75,
+          "amount": 9995,
+          "format": "13.75",
+          "currency": "EUR",
+          "vat": 0.21
+        },
+        {
+          "from": "2020-04-23T00:00:00+0200",
+          "to": "2020-12-28T00:00:00+0200",
+          "value": 10.34,
+          "amount": 9995,
+          "format": "10.34",
+          "currency": "EUR",
+          "discount": 0.24,
+          "discount_label": "-24%",
+          "vat": 0.21
+        }
+      ],
+      "availability": {
+        "is_available": true,
+        "from": "2020-04-23T00:00:00+0200",
+        "to": "2020-12-28T00:00:00+0200"
+      }
+    }
+  ]
+}

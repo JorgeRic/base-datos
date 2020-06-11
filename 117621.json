@@ -1,0 +1,94 @@
+{
+  "id": 117621,
+  "name": "Botella vidrio reciclado Om Water Gratitude 1,2 litros  ",
+  "media": [
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/13321/13321_1_165x165.jpg?v=0&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    },
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/97889/97889_2_165x165.jpg?v=0&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    },
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/97889/97889_3_165x165.png?v=0&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    },
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/97889/97889_4_165x165.jpg?v=0&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    },
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/97889/97889_5_165x165.jpg?v=0&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    }
+  ],
+  "url": "/venta-botella-vidrio-reciclado-om-water-gratitude-1-2-litros_97889/117621",
+  "campaigns": [],
+  "brand": {
+    "id": 244,
+    "name": "omWater",
+    "url": "/marca-omwater",
+    "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/marca/978/978_120.png"
+  },
+  "rating": 4.9,
+  "reviews": 31,
+  "has_availability": true,
+  "is_disabled": false,
+  "is_pack": false,
+  "breadcrumb": [
+    {
+      "category": "Hogar",
+      "url": "/tienda-hogar"
+    },
+    {
+      "category": "Cocina",
+      "url": "/comprar-cocina"
+    },
+    {
+      "category": "Conservación de alimentos",
+      "url": "/comprar-conservacion-de-alimentos"
+    },
+    {
+      "category": "Botellas, termos y jarras",
+      "url": "/comprar-botellas-termos-y-jarras"
+    },
+    {
+      "category": "Botellas reutilizables",
+      "url": "/comprar-botellas-reutilizables"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Botella vidrio reciclado Om Water Gratitude 1,2 litros  ",
+      "sku": 117621,
+      "barcodes": [],
+      "stock": 100,
+      "pricing": [
+        {
+          "value": 16.00,
+          "amount": 9995,
+          "format": "16.00",
+          "currency": "EUR",
+          "vat": 0.21
+        },
+        {
+          "from": "2020-04-23T00:00:00+0200",
+          "to": "2020-12-28T00:00:00+0200",
+          "value": 14.99,
+          "amount": 9995,
+          "format": "14.99",
+          "currency": "EUR",
+          "discount": 0.6,
+          "discount_label": "-6%",
+          "vat": 0.21
+        }
+      ],
+      "availability": {
+        "is_available": true,
+        "from": "2020-04-23T00:00:00+0200",
+        "to": "2020-12-28T00:00:00+0200"
+      }
+    }
+  ]
+}

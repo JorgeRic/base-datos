@@ -1,0 +1,70 @@
+{
+  "id": 104061,
+  "name": "Pack Pañal Nº 4+ Naty 9-20 kg, 84 ud",
+  "media": [
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/104061/104061_1_165x165.jpg?v=0&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    }
+  ],
+  "url": "/venta-pack-panal-n-4-naty-9-20-kg-84-ud_104061",
+  "campaigns": [],
+  "brand": {
+    "id": 237,
+    "name": "Naty AB",
+    "url": "/marca-naty-ab",
+    "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/marca/281/281_120.jpg"
+  },
+  "rating": 5,
+  "reviews": 5,
+  "has_availability": true,
+  "is_disabled": false,
+  "is_pack": false,
+  "breadcrumb": [
+    {
+      "category": "Bebé y Niño ",
+      "url": "/tienda-bebe-y-nino"
+    },
+    {
+      "category": "Pañales Ecologicos",
+      "url": "/comprar-panales-ecologicos"
+    },
+    {
+      "category": "Pañales Talla 4(7 a 18 kg)",
+      "url": "/comprar-panales-talla-4-7-a-18-kg"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Pack Pañal Nº 4+ Naty 9-20 kg, 84 ud",
+      "sku": 104061,
+      "barcodes": [],
+      "stock": 0,
+      "pricing": [
+        {
+          "value": 37.99,
+          "amount": 0,
+          "format": "37.99",
+          "currency": "EUR",
+          "vat": 0.21
+        },
+        {
+          "from": "2020-04-23T00:00:00+0200",
+          "to": "2020-12-28T00:00:00+0200",
+          "value": 32.66,
+          "amount": 0,
+          "format": "32.66",
+          "currency": "EUR",
+          "discount": 0.14,
+          "discount_label": "-14%",
+          "vat": 0.21
+        }
+      ],
+      "availability": {
+        "is_available": true,
+        "from": "2020-04-23T00:00:00+0200",
+        "to": "2020-12-28T00:00:00+0200"
+      }
+    }
+  ]
+}

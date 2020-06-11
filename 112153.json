@@ -1,0 +1,70 @@
+{
+  "id": 112153,
+  "name": "Bolsa Cambiador Gris Claro Casual Twin Lässig",
+  "media": [
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/112153/112153_1_165x165.png?v=0&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    }
+  ],
+  "url": "/venta-bolsa-cambiador-gris-claro-casual-twin-lssig_112153",
+  "campaigns": [],
+  "brand": {
+    "id": 238,
+    "name": "Lässing",
+    "url": "/marca-lassing",
+    "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/marca/1333/1333_120.jpg"
+  },
+  "rating": 0,
+  "reviews": 0,
+  "has_availability": false,
+  "is_disabled": false,
+  "is_pack": false,
+  "breadcrumb": [
+    {
+      "category": "Bebé y Niño ",
+      "url": "/tienda-bebe-y-nino"
+    },
+    {
+      "category": "Baño Infantil",
+      "url": "/comprar-bano-infantil"
+    },
+    {
+      "category": "Accesorios Baño Infantil",
+      "url": "/comprar-accesorios-bano-infantil"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Bolsa Cambiador Gris Claro Casual Twin Lässig",
+      "sku": 112153,
+      "barcodes": [],
+      "stock": 0,
+      "pricing": [
+        {
+          "value": 99.00,
+          "amount": 0,
+          "format": "99.00",
+          "currency": "EUR",
+          "vat": 0.21
+        },
+        {
+          "from": "2020-04-23T00:00:00+0200",
+          "to": "2020-12-28T00:00:00+0200",
+          "value": 76.75,
+          "amount": 0,
+          "format": "76.75",
+          "currency": "EUR",
+          "discount": 0.23,
+          "discount_label": "-23%",
+          "vat": 0.21
+        }
+      ],
+      "availability": {
+        "is_available": false,
+        "from": "2020-04-23T00:00:00+0200",
+        "to": "2020-12-28T00:00:00+0200"
+      }
+    }
+  ]
+}

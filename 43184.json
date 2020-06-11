@@ -1,0 +1,70 @@
+{
+  "id": 43184,
+  "name": "Pañales T6-XL (16/30 kg) Tidoo, 38 unidades",
+  "media": [
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/43184/43184_1_165x165.jpg?v=0&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    }
+  ],
+  "url": "/venta-panales-t6-xl-16-30-kg-tidoo-38-unidades_43184",
+  "campaigns": [],
+  "brand": {
+    "id": 233,
+    "name": "Tidoo",
+    "url": "/marca-tidoo",
+    "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/marca/464/464_120.png"
+  },
+  "rating": 4.2,
+  "reviews": 2,
+  "has_availability": true,
+  "is_disabled": false,
+  "is_pack": false,
+  "breadcrumb": [
+    {
+      "category": "Bebé y Niño ",
+      "url": "/tienda-bebe-y-nino"
+    },
+    {
+      "category": "Pañales Ecologicos",
+      "url": "/comprar-panales-ecologicos"
+    },
+    {
+      "category": "Pañales Talla 6(más de 15 kg)",
+      "url": "/comprar-panales-talla-6-mas-de-15-kg"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Pañales T6-XL (16/30 kg) Tidoo, 38 unidades",
+      "sku": 43184,
+      "barcodes": [],
+      "stock": 100,
+      "pricing": [
+        {
+          "value": 19.90,
+          "amount": 0,
+          "format": "19.90",
+          "currency": "EUR",
+          "vat": 0.21
+        },
+        {
+          "from": "2020-04-23T00:00:00+0200",
+          "to": "2020-12-28T00:00:00+0200",
+          "value": 16.90,
+          "amount": 0,
+          "format": "16.90",
+          "currency": "EUR",
+          "discount": 0.15,
+          "discount_label": "-15%",
+          "vat": 0.21
+        }
+      ],
+      "availability": {
+        "is_available": true,
+        "from": "2020-04-23T00:00:00+0200",
+        "to": "2020-12-28T00:00:00+0200"
+      }
+    }
+  ]
+}

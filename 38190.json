@@ -1,0 +1,63 @@
+{
+  "id": 38190,
+  "name": "Pack básico de iniciación al bonsái Carmona microphylla 5 años",
+  "media": [
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/38190/38190_1_165x165.jpg?v=0&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    },
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/38190/38190_2_165x165.jpg?v=0&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    }
+  ],
+  "url": "/venta-pack-basico-de-iniciacion-al-bonsai-carmona-microphylla-5-anos_38190",
+  "campaigns": [],
+  "brand": {
+    "id": 245,
+    "name": "Planeta Huerto Bonsái",
+    "url": "/marca-planeta-huerto-bonsai",
+    "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/marca/172/172_120.jpg"
+  },
+  "rating": 4.5,
+  "reviews": 45,
+  "has_availability": true,
+  "is_disabled": false,
+  "is_pack": false,
+  "breadcrumb": [
+    {
+      "category": "Plantas",
+      "url": "/tienda-plantas"
+    },
+    {
+      "category": "Bonsái",
+      "url": "/comprar-bonsai"
+    },
+    {
+      "category": "Packs Bonsáis",
+      "url": "/comprar-packs-bonsais"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Pack básico de iniciación al bonsái Carmona microphylla 5 años",
+      "sku": 38190,
+      "barcodes": [],
+      "stock": 100,
+      "pricing": [
+        {
+          "value": 39.95,
+          "amount": 9995,
+          "format": "39.95",
+          "currency": "EUR",
+          "vat": 0.21
+        }
+      ],
+      "availability": {
+        "is_available": true,
+        "from": "2020-04-23T00:00:00+0200",
+        "to": "2020-12-28T00:00:00+0200"
+      }
+    }
+  ]
+}

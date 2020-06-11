@@ -1,0 +1,91 @@
+{
+  "id": 113644,
+  "name": "Pañal de tela reutilizable Snow Leopard Close Parent ",
+  "media": [
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/113644/113644_1_1400.jpg?v=3",
+      "type": "image"
+    },
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/113644/113644_2_530.jpg?v=3&width=416&height=416&quality=70&format=webp",
+      "type": "image"
+    },
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/113644/113644_3_165x165.jpg?v=3&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    },
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/113644/113644_4_165x165.jpg?v=3&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    },
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/113644/113644_5_165x165.jpg?v=3&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    },
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/113644/113644_6_165x165.jpg?v=3&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    },
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/113644/113644_7_165x165.jpg?v=3&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    },
+    {
+      "resource": "https://img.youtube.com/vi/IHQuLhxksmk/default.jpg",
+      "type": "video"
+    },
+    {
+      "resource": "https://img.youtube.com/vi/hu7G7Oewad8/default.jpg",
+      "type": "video"
+    }
+  ],
+  "url": "/venta-panal-de-tela-reutilizable-snow-leopard-close-parent_113644",
+  "campaigns": [],
+  "brand": {
+    "id": 239,
+    "name": "close Parent",
+    "url": "/marca-close-parent",
+    "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/marca/1145/1145_120.png"
+  },
+  "rating": 4.5,
+  "reviews": 1,
+  "has_availability": true,
+  "is_disabled": false,
+  "is_pack": false,
+  "breadcrumb": [
+    {
+      "category": "Bebé y Niño ",
+      "url": "/tienda-bebe-y-nino"
+    },
+    {
+      "category": "Pañales Ecológicos",
+      "url": "/comprar-panales-ecologicos"
+    },
+    {
+      "category": "Pañales de Tela",
+      "url": "/comprar-panales-de-tela"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Pañal de tela reutilizable Snow Leopard Close Parent ",
+      "sku": 113644,
+      "barcodes": [],
+      "stock": 100,
+      "pricing": [
+        {
+          "value": 22.95,
+          "amount": 9995,
+          "format": "22.95",
+          "currency": "EUR",
+          "vat": 0.21
+        }
+      ],
+      "availability": {
+        "is_available": true,
+        "from": "2020-04-23T00:00:00+0200",
+        "to": "2020-12-28T00:00:00+0200"
+      }
+    }
+  ]
+}

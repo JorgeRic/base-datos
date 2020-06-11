@@ -1,0 +1,70 @@
+{
+  "id": 124029,
+  "name": "Pack x2 Swimmers Pañales para el baño T3 (4-9kg) Tidoo + Protector Solar Bebé SPF 50 Alphanova 125 ml ",
+  "media": [
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/124029/124029_1_1400.png?v=1",
+      "type": "image"
+    }
+  ],
+  "url": "/venta-pack-x2-swimmers-panales-para-el-bano-t3-4-9kg-tidoo-protector-solar-bebe-spf-50-alphanova-125-ml_124029",
+  "campaigns": [],
+  "brand": {
+    "id": 240,
+    "name": "Tidoo",
+    "url": "/marca-tidoo",
+    "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/marca/464/464_120.png"
+  },
+  "rating": 0,
+  "reviews": 0,
+  "has_availability": true,
+  "is_disabled": false,
+  "is_pack": false,
+  "breadcrumb": [
+    {
+      "category": "Bebé y Niño ",
+      "url": "/tienda-bebe-y-nino"
+    },
+    {
+      "category": "Pañales Ecológicos",
+      "url": "/comprar-panales-ecologicos"
+    },
+    {
+      "category": "Pañales Bañador",
+      "url": "/comprar-panales-banador"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Pack x2 Swimmers Pañales para el baño T3 (4-9kg) Tidoo + Protector Solar Bebé SPF 50 Alphanova 125 ml ",
+      "sku": 124029,
+      "barcodes": [],
+      "stock": 100,
+      "pricing": [
+        {
+          "value": 36.75,
+          "amount": 9995,
+          "format": "36.75",
+          "currency": "EUR",
+          "vat": 0.21
+        },
+        {
+          "from": "2020-04-23T00:00:00+0200",
+          "to": "2020-12-28T00:00:00+0200",
+          "value": 34.90,
+          "amount": 9995,
+          "format": "34.90",
+          "currency": "EUR",
+          "discount": 0.05,
+          "discount_label": "-5%",
+          "vat": 0.21
+        }
+      ],
+      "availability": {
+        "is_available": true,
+        "from": "2020-04-23T00:00:00+0200",
+        "to": "2020-12-28T00:00:00+0200"
+      }
+    }
+  ]
+}

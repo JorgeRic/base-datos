@@ -1,0 +1,74 @@
+{
+  "id": 99917,
+  "name": "Pack 2x Pañales Pingo T6 XL (15-30kg) 64 unidades",
+  "media": [
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/99917/99917_1_165x165.jpg?v=0&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    },
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/99917/99917_2_165x165.png?v=0&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    }
+  ],
+  "url": "/venta-pack-2x-panales-pingo-t6-xl-15-30kg-64-unidades_99917",
+  "campaigns": [],
+  "brand": {
+    "id": 236,
+    "name": "Pingo Pañales",
+    "url": "/marca-pingo-panales",
+    "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/marca/279/279_120.png"
+  },
+  "rating": 5,
+  "reviews": 4,
+  "has_availability": true,
+  "is_disabled": false,
+  "is_pack": false,
+  "breadcrumb": [
+    {
+      "category": "Bebé y Niño ",
+      "url": "/tienda-bebe-y-nino"
+    },
+    {
+      "category": "Pañales Ecologicos",
+      "url": "/comprar-panales-ecologicos"
+    },
+    {
+      "category": "Pañales Talla 6(más de 15 kg)",
+      "url": "/comprar-panales-talla-6-mas-de-15-kg"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Pack 2x Pañales Pingo T6 XL (15-30kg) 64 unidades",
+      "sku": 99917,
+      "barcodes": [],
+      "stock": 100,
+      "pricing": [
+        {
+          "value": 31.95,
+          "amount": 0,
+          "format": "31.95",
+          "currency": "EUR",
+          "vat": 0.21
+        },
+        {
+          "from": "2020-04-23T00:00:00+0200",
+          "to": "2020-12-28T00:00:00+0200",
+          "value": 27.45,
+          "amount": 0,
+          "format": "27.45",
+          "currency": "EUR",
+          "discount": 0.14,
+          "discount_label": "-14%",
+          "vat": 0.21
+        }
+      ],
+      "availability": {
+        "is_available": true,
+        "from": "2020-04-23T00:00:00+0200",
+        "to": "2020-12-28T00:00:00+0200"
+      }
+    }
+  ]
+}

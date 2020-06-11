@@ -1,0 +1,59 @@
+{
+  "id": 125454,
+  "name": "Bicicleta eléctrica e-bike B3 Ess Watt",
+  "media": [
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/104620/104620_1_165x165.jpg?v=8&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    }
+  ],
+  "url": "/venta-bicicleta-electrica-e-bike-b3-ess-watt_104620/125454",
+  "campaigns": [],
+  "brand": {
+    "id": 247,
+    "name": "Ess Watt",
+    "url": "/marca-ess-watt",
+    "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/marca/1205/1205_120.png"
+  },
+  "rating": 5,
+  "reviews": 1,
+  "has_availability": true,
+  "is_disabled": false,
+  "is_pack": false,
+  "breadcrumb": [
+    {
+      "category": "Hogar",
+      "url": "/tienda-hogar"
+    },
+    {
+      "category": "Bicicletas y monopatines eléctricos",
+      "url": "/comprar-bicicletas-y-monopatines-electricos"
+    },
+    {
+      "category": "Bibicletas eléctricas",
+      "url": "/comprar-bicicletas-electricas"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Bicicleta eléctrica e-bike B3 Ess Watt",
+      "sku": 125454,
+      "barcodes": [],
+      "stock": 100,
+      "pricing": [
+        {
+          "value": 355.00,
+          "amount": 9995,
+          "format": "355.00",
+          "currency": "EUR",
+          "vat": 0.21
+        }
+      ],
+      "availability": {
+        "is_available": true,
+        "from": "2020-04-23T00:00:00+0200",
+        "to": "2020-12-28T00:00:00+0200"
+      }
+    }
+  ]
+}

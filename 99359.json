@@ -1,0 +1,66 @@
+{
+  "id": 99359,
+  "name": "Pack 6 Toallitas Ultra Suaves y Compostable con Caléndula Sin Perfume Tidoo, 6x58 uds",
+  "media": [
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/99359/99359_1_165x165.jpg?v=0&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    }
+  ],
+  "url": "/venta-pack-6-toallitas-ultra-suaves-y-compostable-con-calendula-sin-perfume-tidoo-6x58-uds_99359",
+  "campaigns": [],
+  "brand": {
+    "id": 235,
+    "name": "Tidoo",
+    "url": "/marca-tidoo",
+    "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/marca/464/464_120.png"
+  },
+  "rating": 5,
+  "reviews": 2,
+  "has_availability": true,
+  "is_disabled": false,
+  "is_pack": false,
+  "breadcrumb": [
+    {
+      "category": "Bebé y Niño ",
+      "url": "/tienda-bebe-y-nino"
+    },
+    {
+      "category": "Toallitas",
+      "url": "/comprar-toallitas"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Pack 6 Toallitas Ultra Suaves y Compostable con Caléndula Sin Perfume Tidoo, 6x58 uds",
+      "sku": 99359,
+      "barcodes": [],
+      "stock": 100,
+      "pricing": [
+        {
+          "value": 23.40,
+          "amount": 0,
+          "format": "23.40",
+          "currency": "EUR",
+          "vat": 0.21
+        },
+        {
+          "from": "2020-04-23T00:00:00+0200",
+          "to": "2020-12-28T00:00:00+0200",
+          "value": 19.90,
+          "amount": 0,
+          "format": "19.90",
+          "currency": "EUR",
+          "discount": 0.14,
+          "discount_label": "-14%",
+          "vat": 0.21
+        }
+      ],
+      "availability": {
+        "is_available": true,
+        "from": "2020-04-23T00:00:00+0200",
+        "to": "2020-12-28T00:00:00+0200"
+      }
+    }
+  ]
+}

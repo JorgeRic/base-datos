@@ -1,0 +1,70 @@
+{
+  "id": 19593,
+  "name": "Pack ahorro Pañales BIO BABY T4 136 unidades",
+  "media": [
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/19593/19593_1_1400.jpg?v=0",
+      "type": "image"
+    }
+  ],
+  "url": "/venta-pack-ahorro-panales-bio-baby-t4-136-unidades_19593",
+  "campaigns": [],
+  "brand": {
+    "id": 231,
+    "name": "Bio Baby",
+    "url": "/marca-bio-baby",
+    "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/marca/120/120_120.png"
+  },
+  "rating": 4.6,
+  "reviews": 88,
+  "has_availability": true,
+  "is_disabled": false,
+  "is_pack": false,
+  "breadcrumb": [
+    {
+      "category": "Bebé y Niño ",
+      "url": "/tienda-bebe-y-nino"
+    },
+    {
+      "category": "Pañales Ecológicos",
+      "url": "/comprar-panales-ecologicos"
+    },
+    {
+      "category": "Pañales Talla 4 (7 a 18 kg)",
+      "url": "/comprar-panales-talla-4-7-a-18-kg"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Pack ahorro Pañales BIO BABY T4 136 unidades",
+      "sku": 19593,
+      "barcodes": [],
+      "stock": 100,
+      "pricing": [
+        {
+          "value": 47.20,
+          "amount": 9995,
+          "format": "47.2",
+          "currency": "EUR",
+          "vat": 0.21
+        },
+        {
+          "from": "2020-04-23T00:00:00+0200",
+          "to": "2020-12-28T00:00:00+0200",
+          "value": 30.40,
+          "amount": 9995,
+          "format": "30,40",
+          "currency": "EUR",
+          "discount": 0.35,
+          "discount_label": "-35%",
+          "vat": 0.21
+        }
+      ],
+      "availability": {
+        "is_available": true,
+        "from": "2020-04-23T00:00:00+0200",
+        "to": "2020-12-28T00:00:00+0200"
+      }
+    }
+  ]
+}

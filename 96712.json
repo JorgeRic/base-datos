@@ -1,0 +1,54 @@
+{
+  "id": 96712,
+  "name": "Prebonsái Pistacia lentiscus 8 años",
+  "media": [
+    {
+      "resource": "https://imagesph.global.ssl.fastly.net/estaticos/imagenes/ficha/96712/96712_1_165x165.png?v=0&width=46&height=46&quality=30&format=webp",
+      "type": "image"
+    }
+  ],
+  "url": "/venta-prebonsai-pistacia-lentiscus-8-anos_96712",
+  "campaigns": [],
+  "brand": {},
+  "rating": 0,
+  "reviews": 0,
+  "has_availability": true,
+  "is_disabled": false,
+  "is_pack": false,
+  "breadcrumb": [
+    {
+      "category": "Plantas",
+      "url": "/tienda-plantas"
+    },
+    {
+      "category": "Bonsái",
+      "url": "/comprar-bonsai"
+    },
+    {
+      "category": "Prebonsái",
+      "url": "/comprar-prebonsai"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Prebonsái Pistacia lentiscus 8 años",
+      "sku": 96712,
+      "barcodes": [],
+      "stock": 100,
+      "pricing": [
+        {
+          "value": 35.82,
+          "amount": 9995,
+          "format": "35.82",
+          "currency": "EUR",
+          "vat": 0.21
+        }
+      ],
+      "availability": {
+        "is_available": true,
+        "from": "2020-04-23T00:00:00+0200",
+        "to": "2020-12-28T00:00:00+0200"
+      }
+    }
+  ]
+}
